@@ -1,0 +1,25 @@
+# Environment Configuration
+.env
+.env.*
+
+# Dependency directory
+node_modules
+server/node_modules
+server/config.env
+# Test coverage directory
+coverage
+
+# Ignore Apple macOS Desktop Services Store
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# extensions build output
+extensions/*/build
+
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

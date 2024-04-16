@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../src/action.css"],
+  "sourceRoot": "C:/Users/Subhash/Documents/ASSIGNMENTS/Surebright-shopify/extensions/admin-action-demo/src",
+  "sourcesContent": ["@tailwind base;\r\n@tailwind components;\r\n@tailwind utilities;\r\n\r\n.wid-full{\r\n    width: 100%;\r\n}"],
+  "mappings": ";AAAA,UAAU;AACV,UAAU;AACV,UAAU;AAEV,CAAC;AACG,SAAO;AACX;",
+  "names": []
+}
